@@ -13,3 +13,6 @@
 p{
     text-align: center;
 }
+.carousel-inner{
+    height: 550px;
+}
