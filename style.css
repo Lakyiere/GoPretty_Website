@@ -1,3 +1,7 @@
+body{
+      font-family: 'Sree Krushnadevaraya';
+font-style: normal;
+}
 .nav_bar{
     background-color: #8EB226;
 }
@@ -35,8 +39,6 @@ background-color:#CDA792;
 }
 .classdiscover{
     padding-top: 3rem;
-    font-family: 'Sree Krushnadevaraya';
-font-style: normal;
     font-weight: 400;
 font-size: 50px;
 color:rgba(215, 255, 165, 1);
@@ -45,8 +47,6 @@ margin-bottom: none;
 }
 .productclass{
     margin-top: none;
-    font-family: 'Sree Krushnadevaraya';
-font-style: normal;
 font-weight: 200;
 font-size: 35px;
 text-transform: capitalize;
@@ -74,6 +74,19 @@ color: #fff;
 .pricetag{
     margin-top: 13rem;
 }
-.best{
+.bestselling{
     background-color: rgba(220, 220, 220, 1);
+}
+.section2{
+  
+font-weight: 400;
+font-size: 30px;
+}
+.viewclass{
+    font-weight: 200;
+font-size: 20px;
+    justify-content: right;
+    padding-top: 1rem;
+    margin-left: 45rem;
+    text-decoration-line: underline;
 }
