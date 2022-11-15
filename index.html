@@ -18,7 +18,7 @@
  <nav class="navbar nav_bar navbar-expand-lg d-none d-lg-block text-light">
       <div class="container-fluid flex-lg-row justify-content-around">
         <a class="navbar-brand" href="#"
-          ><img src="images/companylogo.png" alt="companylogo" width="30" />GoPretty
+          ><img src="images/companylogo.png" class="company" alt="companylogo" width="25" /><span class="companyname">GoPretty</span>
         </a>
         <button
           class="navbar-toggler text-light"
@@ -36,21 +36,24 @@
             <a class="nav-link active" aria-current="page" href="#"
               ><span class="span-class text-light">Shop </span></a
             >
-            <a class="nav-link text-light" href="#">product</a>
+            <a class="nav-link text-light" href="#">Product <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+</svg></a>
             <a class="nav-link text-light" href="#">Sales</a>
             <a class="nav-link text-light" href="#">Contact </a>
           </div>
         </div>
         <div class="d-flex">
           <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"><i class="bi bi-search"></i>
+        <input  class=" searchbtn " type="search"
+         placeholder="Search for products" aria-label="Search">
       </form>
-          <div class="pt-3">
+          <div class="classlikes">
             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
   <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
 </svg> -->
-<img src="images/heart.png" alt="">
-            <img src="images/cart.png" alt="">
+<a href="#"><img src="images/heart.png" alt=""></a>
+            <a href="#"><img src="images/cart.png" class="cart" alt=""></a>
           </div>
         </div>
       </div>

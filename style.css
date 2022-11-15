@@ -7,3 +7,26 @@
 .containersection1{
     justify-content: space-around;
 }
+.companyname{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 0.3rem;
+}
+.searchbtn{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 7px;
+    border: none;
+    color: rgb(192, 191, 191);
+}
+.classlikes{
+    margin-left: 3rem;
+    padding-top: 0.2rem;
+}
+.cart{
+    margin-left: 1rem;
+}
+.navbar-nav{
+gap: 25px;
+}
