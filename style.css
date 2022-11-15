@@ -34,19 +34,21 @@ gap: 25px;
 background-color:#CDA792;
 }
 .classdiscover{
-    padding-top: 2.5rem;
+    padding-top: 3rem;
     font-family: 'Sree Krushnadevaraya';
 font-style: normal;
     font-weight: 400;
-font-size: 60px;
+font-size: 50px;
 color:rgba(215, 255, 165, 1);
 text-transform: capitalize;
+margin-bottom: none;
 }
 .productclass{
+    margin-top: none;
     font-family: 'Sree Krushnadevaraya';
 font-style: normal;
-font-weight: 300;
-font-size: 40px;
+font-weight: 200;
+font-size: 35px;
 text-transform: capitalize;
 color: #fff;
 
@@ -57,7 +59,7 @@ color: #fff;
     border: #fff solid 1px;
     padding: 0.5rem;
     margin-left: 10rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 .products{
     margin-top: 1rem;
@@ -66,9 +68,12 @@ color: #fff;
     /* margin-left: 5rem; */
 }
 .image2class{
-    margin-top: 5rem;
+    margin-top: 7rem;
     margin-left: 3rem;
 }
 .pricetag{
     margin-top: 13rem;
+}
+.best{
+    background-color: rgba(220, 220, 220, 1);
 }
