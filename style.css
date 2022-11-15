@@ -4,3 +4,6 @@
 .companylogo{
     color: #fff;
 }
+.containersection1{
+    justify-content: space-around;
+}
