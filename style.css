@@ -1,92 +1,90 @@
-body{
-      font-family: 'Sree Krushnadevaraya';
-font-style: normal;
+body {
+  font-family: "Sree Krushnadevaraya";
+  font-style: normal;
 }
-.nav_bar{
-    background-color: #8EB226;
+.nav_bar {
+  background-color: #8eb226;
 }
-.companylogo{
-    color: #fff;
+.companylogo {
+  color: #fff;
 }
-.containersection1{
-    justify-content: space-around;
+.containersection1 {
+  justify-content: space-around;
 }
-.companyname{
-    color: #fff;
-    font-size: 15px;
-    font-weight: 600;
-    margin-left: 0.3rem;
+.companyname {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 0.3rem;
 }
-.searchbtn{
-    padding-left: 2rem;
-    padding-right: 2rem;
-    border-radius: 7px;
-    border: none;
-    color: rgb(192, 191, 191);
+.searchbtn {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 7px;
+  border: none;
+  color: rgb(192, 191, 191);
 }
-.classlikes{
-    margin-left: 3rem;
-    padding-top: 0.2rem;
+.classlikes {
+  margin-left: 3rem;
+  padding-top: 0.2rem;
 }
-.cart{
-    margin-left: 1rem;
+.cart {
+  margin-left: 1rem;
 }
-.navbar-nav{
-gap: 25px;
+.navbar-nav {
+  gap: 25px;
 }
-.section1{
-background-color:#CDA792;
+.section1 {
+  background-color: #cda792;
 }
-.classdiscover{
-    padding-top: 3rem;
-    font-weight: 400;
-font-size: 50px;
-color:rgba(215, 255, 165, 1);
-text-transform: capitalize;
-margin-bottom: none;
+.classdiscover {
+  padding-top: 3rem;
+  font-weight: 400;
+  font-size: 50px;
+  color: rgba(215, 255, 165, 1);
+  text-transform: capitalize;
+  margin-bottom: none;
 }
-.productclass{
-    margin-top: none;
-font-weight: 200;
-font-size: 35px;
-text-transform: capitalize;
-color: #fff;
-
+.productclass {
+  margin-top: none;
+  font-weight: 200;
+  font-size: 35px;
+  text-transform: capitalize;
+  color: #fff;
 }
-.shopnowclass{
-    color: #fff;
-    background-color: #8EB226;
-    border: #fff solid 1px;
-    padding: 0.5rem;
-    margin-left: 10rem;
-    margin-top: 1.5rem;
+.shopnowclass {
+  color: #fff;
+  background-color: #8eb226;
+  border: #fff solid 1px;
+  padding: 0.5rem;
+  margin-left: 10rem;
+  margin-top: 1.5rem;
 }
-.products{
-    margin-top: 1rem;
-    /* width: 100px;
+.products {
+  margin-top: 1rem;
+  /* width: 100px;
     height: 100px; */
-    /* margin-left: 5rem; */
+  /* margin-left: 5rem; */
 }
-.image2class{
-    margin-top: 7rem;
-    margin-left: 3rem;
+.image2class {
+  margin-top: 7rem;
+  margin-left: 3rem;
 }
-.pricetag{
-    margin-top: 13rem;
+.pricetag {
+  margin-top: 13rem;
 }
-.bestselling{
-    background-color: rgba(220, 220, 220, 1);
+.bestselling {
+  background-color: rgba(220, 220, 220, 1);
 }
-.section2{
-  
-font-weight: 400;
-font-size: 30px;
+.section2 {
+  font-weight: 400;
+  font-size: 30px;
 }
-.viewclass{
-    font-weight: 200;
-font-size: 20px;
-    justify-content: right;
-    padding-top: 1rem;
-    margin-left: 45rem;
-    text-decoration-line: underline;
+.viewclass {
+  font-weight: 200;
+  font-size: 20px;
+  justify-content: right;
+  padding-top: 1rem;
+  margin-left: 45rem;
+  text-decoration-line: underline;
 }
