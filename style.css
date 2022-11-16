@@ -103,3 +103,12 @@ line-height: 33px;
 text-transform: capitalize;
 color: #000000;
 }
+.price{
+  font-weight: 800;
+font-size: 16px;
+line-height: 19px;
+color: #12651A;
+}
+.buycart{
+  margin-left:5rem ;
+}
