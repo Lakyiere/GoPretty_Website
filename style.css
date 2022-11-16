@@ -88,3 +88,18 @@ body {
   margin-left: 45rem;
   text-decoration-line: underline;
 }
+.card-title{
+  font-weight: 400;
+font-size: 16px;
+line-height: 29px;
+text-transform: capitalize;
+
+color: #12651A;
+}
+.card-text{
+  font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+text-transform: capitalize;
+color: #000000;
+}
