@@ -88,30 +88,30 @@ body {
   margin-left: 45rem;
   text-decoration-line: underline;
 }
-.card-title{
+.card-title {
   font-weight: 400;
-font-size: 16px;
-line-height: 29px;
-text-transform: capitalize;
+  font-size: 16px;
+  line-height: 29px;
+  text-transform: capitalize;
 
-color: #12651A;
+  color: #12651a;
 }
-.card-text{
+.card-text {
   font-weight: 400;
-font-size: 18px;
-line-height: 33px;
-text-transform: capitalize;
-color: #000000;
+  font-size: 18px;
+  line-height: 33px;
+  text-transform: capitalize;
+  color: #000000;
 }
-.price{
+.price {
   font-weight: 800;
-font-size: 16px;
-line-height: 19px;
-color: #12651A;
+  font-size: 16px;
+  line-height: 19px;
+  color: #12651a;
 }
-.buycart{
-  margin-left:5rem ;
+.buycart {
+  margin-left: 5rem;
 }
-.carditself{
-  background-color: #E6E6E6;
+.carditself {
+  background-color: #e6e6e6;
 }
