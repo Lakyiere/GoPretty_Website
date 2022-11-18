@@ -186,3 +186,17 @@ color: rgba(0, 0, 0, 0.67);
 .sortclass{
   padding-left: 3rem;
 }
+.card-text5{
+  font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.carditself5{
+  background-color: #6C8152;
+}
+.price5{
+  color: #fff;
+}
