@@ -133,3 +133,22 @@ text-transform: capitalize;
 color: #FFFFFF;
 text-align: center;
 }
+.section4{
+  background-color: #E4E5D7;
+}
+.ordclass{
+  font-weight: 400;
+font-size: 40px;
+text-transform: capitalize;
+padding-left: 6rem;
+padding-top: 3rem;
+color: #000000;
+}
+.ordtextclass{
+  font-weight: 400;
+font-size: 20px;
+text-transform: capitalize;
+color: #686868;
+padding-left: 6rem;
+padding-top: 2rem;
+}
