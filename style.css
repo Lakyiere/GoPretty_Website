@@ -87,6 +87,7 @@ body {
   padding-top: 1rem;
   margin-left: 45rem;
   text-decoration-line: underline;
+  color: rgba(0, 0, 0, 0.67)
 }
 .card-title {
   font-weight: 400;
@@ -198,5 +199,17 @@ color: #FFFFFF;
   background-color: #6C8152;
 }
 .price5{
+  color: #fff;
+}
+.section6{
+  background-color: #A1C53D;
+  padding-top: 3rem;
+}
+.listitems{
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+}
+.logo{
   color: #fff;
 }
