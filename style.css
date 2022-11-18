@@ -164,3 +164,25 @@ padding-top: 2rem;
   margin-top: 1.5rem;
   margin-left: 15rem;
 }
+.filterclass{
+  font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+color: #676767;
+padding-top: 2rem;
+}
+.section5{
+  background-color: #fff;
+}
+/* .viewclass1{
+  font-weight: 400;
+font-size: 24px;
+line-height: 49px;
+text-decoration-line: underline;
+text-transform: capitalize;
+color: rgba(0, 0, 0, 0.67);
+} */
+.sortclass{
+  padding-left: 3rem;
+}
